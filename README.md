@@ -28,6 +28,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 https://whispering-reaches-85692.herokuapp.com/
 
 ## Contribution
-Made with ❤️ by Maame (with assistance from class repository)
+Made with ❤️ by Maame 
 
 ![alt text](./public/images/budget-tracker.png)
